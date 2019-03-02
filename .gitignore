@@ -1,0 +1,5 @@
+*.o
+data/
+tmp/
+bin/
+build/
