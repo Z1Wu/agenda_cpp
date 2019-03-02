@@ -38,6 +38,6 @@ make clean
 
 ## 程序功能
 
-详见 [doc](./doc/Agenda用户需求) 
+详见 [doc](./doc/AgendaRequirement.md) 
 
 
