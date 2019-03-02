@@ -24,10 +24,6 @@ make
 make clean
 ```
 
-## 程序功能
-
-详见 doc 
-
 ## 系统简要架构
 
 这个系统的设计使用了`三层架构(3 tier architecture)`的设计方式，分为以下三个层
@@ -38,7 +34,10 @@ make clean
 
 - Entity layer: 数据访问层/数据存储层，实现数据的持久化。
 
-程序各个类之间的类图如下所示:
+// UML 类图(todo)
 
+## 程序功能
+
+详见 [doc](./doc/Agenda用户需求) 
 
 
